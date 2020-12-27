@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true&theme=great-gatsby)
+
 <!--
 **ysichov/ysichov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
