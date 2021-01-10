@@ -2,6 +2,9 @@
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true&theme=great-gatsby)
 
+[![Goala's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysichov&theme=highcontrast&langs_count=10&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ysichov/ysichov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
