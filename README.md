@@ -1,4 +1,4 @@
-### Hello, world :) 👋 I am from Ukraine.
+### Hello, world :) 👋 
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true&theme=great-gatsby)
 
