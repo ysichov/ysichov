@@ -1,6 +1,6 @@
 ### Hello, world :) 👋 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true&theme=blueberry)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true)
 
 [![Goala's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysichov&langs_count=10&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
