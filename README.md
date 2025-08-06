@@ -1,4 +1,7 @@
-### Hello, world :) 👋 
+### Hello, world :) 👋 My main projects:
+
+## 📦 [Smart Debugger](https://github.com/ysichov/Smart-Debugger)
+## 📦 [Simple Data Explorer](https://github.com/ysichov/Simple-Data-Explorer)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true)
 
