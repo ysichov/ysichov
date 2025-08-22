@@ -1,8 +1,8 @@
 ### Hello, world :) 👋 My main projects:
 
-## 📦 [SAP Easy AI](https://github.com/ysichov/SAP-easy-AI)
 ## 📦 [Smart Debugger](https://github.com/ysichov/Smart-Debugger)
 ## 📦 [Simple Data Explorer](https://github.com/ysichov/Simple-Data-Explorer)
+## 📦 [SAP Easy AI](https://github.com/ysichov/SAP-easy-AI)
 ## 📦 [SAP HCM Data Model Explorer](https://github.com/ysichov/HR_DME)
 
 
