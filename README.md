@@ -16,7 +16,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ysichov&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ysichov/Simple-Data-Explorer,ysichov/Smart-Debugger,ysichov/ACE&type=Date)](https://star-history.com/#ysichov/Simple-Data-Explorer&ysichov/Smart-Debugger&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ysichov/Simple-Data-Explorer,ysichov/Smart-Debugger,ysichov/ACE,ysichov/HR_DME&type=Date)](https://star-history.com/#ysichov/Simple-Data-Explorer&ysichov/Smart-Debugger&Date)
 
 
 
