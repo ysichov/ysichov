@@ -1,7 +1,7 @@
 ### Hello, world :) 👋 My main projects:
 
 https://github.com/ysichov/ABAP-AI-Code
-## 📦 [ABAP AI Code agent](https://github.com/ABAP-AI-CODE)
+## 📦 [ABAP AI Code agent](https://github.com/ysichov/ABAP-AI-CODE)
 ## 📦 [ACE - ABAP Code Explorer](https://github.com/ysichov/ACE)
 ## 📦 [Smart Debugger](https://github.com/ysichov/Smart-Debugger)
 ## 📦 [AVE - ABAP Versions Explorer](https://github.com/ysichov/AVE)
