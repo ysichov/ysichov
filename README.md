@@ -5,7 +5,7 @@ https://github.com/ysichov/ABAP-AI-Code
 ## 📦 [ACE - ABAP Code Explorer](https://github.com/ysichov/ACE)
 ## 📦 [Smart Debugger](https://github.com/ysichov/Smart-Debugger)
 ## 📦 [AVE - ABAP Versions Explorer/Reviewer v 2.0](https://github.com/ysichov/AVE)
-## 📦 [Simple Data Explorer SelecTor v 2.0](https://github.com/ysichov/Simple-Data-Explorer)
+## 📦 [Simple Data Explorer( SelecTor v 2.0 )](https://github.com/ysichov/Simple-Data-Explorer)
 ## 📦 [SAP HCM Data Model Explorer](https://github.com/ysichov/HR_DME)
 
 
