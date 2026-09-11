@@ -1,12 +1,17 @@
 ### Hello, world :) 👋 My main projects:
 
-https://github.com/ysichov/ABAP-AI-Code
-## 📦 [ABAP AI Code agent](https://github.com/ysichov/ABAP-AI-CODE)
-## 📦 [ACE - ABAP Code Explorer](https://github.com/ysichov/ACE)
-## 📦 [Smart Debugger](https://github.com/ysichov/Smart-Debugger)
-## 📦 [AVE - ABAP Versions Explorer/Reviewer v 2.0](https://github.com/ysichov/AVE)
+
 ## 📦 [Simple Data Explorer( SelecTor v 2.0 )](https://github.com/ysichov/Simple-Data-Explorer)
+## 📦 [AVE - ABAP Versions Explorer/Reviewer v 2.0](https://github.com/ysichov/AVE)
+## 📦 [ACE - ABAP Code Explorer](https://github.com/ysichov/ACE)
+
+## 📦 [VS Code/Eclipse Plugin for all three above - VERTEX Tools]([https://github.com/ysichov/ACE](https://github.com/ysichov/VERTEX/)
+
+
+## 📦 [ABAP AI Code agent](https://github.com/ysichov/ABAP-AI-CODE)
+## 📦 [Smart Debugger](https://github.com/ysichov/Smart-Debugger)
 ## 📦 [SAP HCM Data Model Explorer](https://github.com/ysichov/HR_DME)
+
 
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ysichov&show_icons=true)
