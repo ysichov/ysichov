@@ -1,6 +1,6 @@
 ### Hello, world :) 👋 My main projects:
 
-## 📦 [VERTEX](https://github.com/ysichov/VERTEX)
+## 📦 [VERTEX](https://github.com/ysichov/VERTEX)  It is All-in-one...
 
 
 ## 📦 [Simple Data Explorer( SelecTor v 2.0 )](https://github.com/ysichov/Simple-Data-Explorer)
